@@ -1,0 +1,6 @@
+# Ignore compiled executable files
+*.exe
+
+# Ignore input and output text files
+input.txt
+output.txt
